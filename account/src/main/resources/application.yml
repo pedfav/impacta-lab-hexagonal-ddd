@@ -35,3 +35,4 @@ lab:
       account-dont-exists-description: "Não foi possível encontrar a conta corrente informada."
       account-without-balance-message: "Saldo insuficiente."
       account-without-balance-description: "Não foi possível efetuar o débito, o saldo da conta informada é insuficiente."
+      internal-error: "Erro interno!"
